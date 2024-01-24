@@ -1,0 +1,28 @@
+{
+  "name": "cond_routing",
+  "version": "1.0.0",
+  "description": "conditional routing in express node.js server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsswenson/320-cond-routing.git"
+  },
+  "keywords": [
+    "conditional",
+    "routing"
+  ],
+  "author": "Lars Swenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsswenson/320-cond-routing/issues"
+  },
+  "homepage": "https://github.com/larsswenson/320-cond-routing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
